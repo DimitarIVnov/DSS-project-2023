@@ -1,4 +1,4 @@
-interface Grade {
+export interface Grade {
   id: number;
   studentFirstName: string;
   studentLastName: string;
@@ -6,4 +6,4 @@ interface Grade {
   score: number;
   date: Date;
 }
-export default  Grade ;
+
