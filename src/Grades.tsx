@@ -27,45 +27,44 @@ function Grades() {
       <div className="grades">
         <div className="grade-box">
           <ul content-list>
-          <li>
-            <p className="grade-p">id : </p>
-            <p className="grade-p">Fisrt Name</p>
-            <p className="grade-p">Second Name</p>
-            <p className="grade-p">Subject</p>
-            <p className="grade-p">Grade</p>
-            <p className="grade-p">DATE</p>
-          </li>
+            
+            <li>
+              <p className="grade-p">id : </p>
+              <p className="grade-p">Fisrt Name</p>
+              <p className="grade-p">Second Name</p>
+              <p className="grade-p">Subject</p>
+              <p className="grade-p">Grade</p>
+              <p className="grade-p">DATE</p>
+            </li>
 
-          <li>
-            <p className="grade-p">id : </p>
-            <p className="grade-p">Fisrt Name</p>
-            <p className="grade-p">Second Name</p>
-            <p className="grade-p">Subject</p>
-            <p className="grade-p">Grade</p>
-            <p className="grade-p">DATE</p>
-          </li>
+            <li>
+              <p className="grade-p">id : </p>
+              <p className="grade-p">Fisrt Name</p>
+              <p className="grade-p">Second Name</p>
+              <p className="grade-p">Subject</p>
+              <p className="grade-p">Grade</p>
+              <p className="grade-p">DATE</p>
+            </li>
 
-          <li>
-            <p className="grade-p">id : </p>
-            <p className="grade-p">Fisrt Name</p>
-            <p className="grade-p">Second Name</p>
-            <p className="grade-p">Subject</p>
-            <p className="grade-p">Grade</p>
-            <p className="grade-p">DATE</p>
-          </li>
+            <li>
+              <p className="grade-p">id : </p>
+              <p className="grade-p">Fisrt Name</p>
+              <p className="grade-p">Second Name</p>
+              <p className="grade-p">Subject</p>
+              <p className="grade-p">Grade</p>
+              <p className="grade-p">DATE</p>
+            </li>
 
-          <li>
-            <p className="grade-p">id : </p>
-            <p className="grade-p">Fisrt Name</p>
-            <p className="grade-p">Second Name</p>
-            <p className="grade-p">Subject</p>
-            <p className="grade-p">Grade</p>
-            <p className="grade-p">DATE</p>
-          </li>
+            <li>
+              <p className="grade-p">id : </p>
+              <p className="grade-p">Fisrt Name</p>
+              <p className="grade-p">Second Name</p>
+              <p className="grade-p">Subject</p>
+              <p className="grade-p">Grade</p>
+              <p className="grade-p">DATE</p>
+            </li>
           </ul>
         </div>
-
-        
       </div>
     </>
   );
