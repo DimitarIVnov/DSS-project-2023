@@ -84,7 +84,7 @@ export default function GradeDetails({
 
   return (
     <div className="content-details  sticky top-[300px] mt-[50px] shadow-sm shadow-stone-700">
-      <div className=" flex-col  pl-[33.33%] sticky bg-neutral-300 ">
+      <div className=" flex justify-center flex-col items-center content sticky bg-neutral-300 ">
         <div className="">
           <label className="w-full block">First Name</label>
           <input
@@ -138,13 +138,14 @@ export default function GradeDetails({
             }}
           />
         </div>
-        <br></br>
+        <div>
         <button id="saveButton" className=" px-[33px] p-0 bg-blue-400 hover:bg-blue-600 hover:text-gray-900" onClick={handleSave}>
           Save
         </button>
-        <button id="clearButton "  className="px-[33px] p-0 bg-yellow-300  hover:bg-yellow-400 hover:text-gray-900" onClick={handleClear}>
+        <button id="clearButton"  className="px-[33px] p-0 bg-yellow-300  hover:bg-yellow-400 hover:text-gray-900" onClick={handleClear}>
           Clear
         </button>
+        </div>
       </div>
     </div>
   );
